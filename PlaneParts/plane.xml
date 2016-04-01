@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plane>
+	<part name="Plane" quantity="1">
+		<part name="Cockpit" quantity="1">
+			<part name="Bolt" quantity="4" />
+			<part name="Window" quantity="3" />
+		</part>
+		<part name="Engine" quantity="1">
+			<part name="Air Intake" quantity="2" />
+			<part name="Big Bolt" quantity="48" />
+			<part name="Bolt" quantity="3" />
+			<part name="Flywheel" quantity="1" />
+			<part name="Smal Bolt" quantity="130" />
+		</part>
+		<part name="Wing" quantity="2">
+			<part name="Wings Bolt" quantity="142" />
+		</part>
+	</part>
+</plane>
